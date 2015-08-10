@@ -7,9 +7,8 @@ Public Twitter Apiler sayesinde Textfield içerinde belirtilen kelime ile ilgili
 
 Screenshot:
 
-<img src="https://github.com/kurtulusahmet/Twitter-Client-App/raw/master/screenshot/screenshot1.png" height="500" width="232">&nbsp;&nbsp;
-
-<img src="https://github.com/kurtulusahmet/Twitter-Client-App/raw/master/screenshot/screenshot2.png" height="500" width="232">&nbsp;&nbsp;
+<img src="https://github.com/kurtulusahmet/Twitter-Client-App/raw/master/screenshot/screenshot1.png" height="590" width="322">&nbsp;&nbsp;
+<img src="https://github.com/kurtulusahmet/Twitter-Client-App/raw/master/screenshot/screenshot2.png" height="590" width="322">
 
 Tutorial: 
 
