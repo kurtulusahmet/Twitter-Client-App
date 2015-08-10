@@ -1,9 +1,9 @@
 Twitter Client App
 ===================
 
-Public Twitter Apiler sayesinde Textfield içerinde belirtilen kelime ile ilgili atılmış twitleri çeker.
+Public Twitter Apiler sayesinde Textfield içerisinde belirtilen kelime ile ilgili atılmış twitleri çeker.
 
-İki fark CustomTableView Cell ile çekilen tweetin fotoğraflı olup olmama durumuna göre TableView da kullanılmıştır.
+İki farklı CustomTableViewCell ile çekilen tweetin fotoğraflı olup olmama durumuna göre TableViewCell olarak kullanılmıştır.
 
 Screenshot:
 
